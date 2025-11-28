@@ -3,5 +3,5 @@
 ## week 01 - Data Ingestion
 some description
 
-## week 02- Data Preprocessing
+## week 02- Data Exploration
 some description
